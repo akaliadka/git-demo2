@@ -1,0 +1,17 @@
+Index: song.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Like a fool I went and stayed too long\r\nNow I'm wondering if your love's still strong\r\nOo, baby, here I am, signed, sealed, delivered, \r\nI'm yours!\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/song.txt b/song.txt
+--- a/song.txt	(revision f599b0aad5541330cae0e9a5c44e91004a3f3e81)
++++ b/song.txt	(date 1755860569174)
+@@ -2,3 +2,5 @@
+ Now I'm wondering if your love's still strong
+ Oo, baby, here I am, signed, sealed, delivered, 
+ I'm yours!
++drfgdgfdfgfgdfgertyrtyh
++dgfdfgdfgdfg
+\ No newline at end of file
