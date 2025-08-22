@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf9d1d2e-c8c5-4bc6-affb-96e675787ef8" name="Changes" comment="commit from local">
-      <change afterPath="$PROJECT_DIR$/file.md" afterDir="false" />
+    <list default="true" id="bf9d1d2e-c8c5-4bc6-affb-96e675787ef8" name="Changes" comment="commit from local 1:58">
+      <change beforePath="$PROJECT_DIR$/file.md" beforeDir="false" afterPath="$PROJECT_DIR$/file.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755862644602</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit from local 1:58">
+      <option name="closed" value="true" />
+      <created>1755863936043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755863936043</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit from local" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit from local" />
+    <MESSAGE value="commit from local 1:58" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit from local 1:58" />
   </component>
 </project>
